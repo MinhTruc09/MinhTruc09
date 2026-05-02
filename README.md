@@ -1,8 +1,9 @@
-<img src="./image_0610f4.png" width="200" alt="UTH Logo">
+<img src="<img width="1000" height="190" alt="image" src="https://github.com/user-attachments/assets/c4221d85-44e6-45f5-9c74-db0cb04c81af" />
+" width="200" alt="UTH Logo">
 
 # Nguyen Minh Truc
 
-**Mobile Developer** | Flutter & Dart Specialist | Blockchain Enthusiast
+**Mobile Developer** | Flutter & Dart Specialist | Blockchain Enthusiast | UI/UX Designer
 
 A passionate Mobile Developer with a strong foundation in building cross-platform applications, integrating APIs, and a drive for continuous self-improvement. Specialized in Flutter development with hands-on experience in Google ecosystem integration, real-time data synchronization, and state management.
 
