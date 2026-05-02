@@ -1,5 +1,4 @@
-<img src="<img width="1000" height="190" alt="image" src="https://github.com/user-attachments/assets/c4221d85-44e6-45f5-9c74-db0cb04c81af" />
-" width="200" alt="UTH Logo">
+<img width="1000" height="190" alt="image" src="https://github.com/user-attachments/assets/c4221d85-44e6-45f5-9c74-db0cb04c81af" />
 
 # Nguyen Minh Truc
 
